@@ -14,6 +14,12 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    
+    @IBOutlet weak var Question: UILabel!
+    
+    @IBOutlet weak var Answer: UILabel!
+    
+    @IBAction func didTapOnFlashcard(_ sender: Any) {
+    }
 }
 
