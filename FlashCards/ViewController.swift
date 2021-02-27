@@ -20,6 +20,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var Answer: UILabel!
     
     @IBAction func didTapOnFlashcard(_ sender: Any) {
+        Question .isHidden = true
     }
 }
 
