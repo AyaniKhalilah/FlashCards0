@@ -1,3 +1,4 @@
+![Lab1]
 ## FlashCards
 
 ## Lab 1
@@ -7,7 +8,7 @@ App presents a flashcard witha promt on one side, and answer appears when the "f
 
 ### App Walk-though
 
-<img src=https://user-images.githubusercontent.com/60616822/109406246-9423a380-7945-11eb-81d9-d8b13c66f124.mov width=200><br>
+<img src=https://user-images.githubusercontent.com/60616822/109428572-99283780-79c5-11eb-88d9-07c4fdbee357.gif width=200><br>
 
 ## Required
 - [X] Create New Project in Xcode
