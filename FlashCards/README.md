@@ -1,10 +1,10 @@
-![Lab1]
+
 ## FlashCards
 
 ## Lab 1
 
 ### App Description
-App presents a flashcard witha promt on one side, and answer appears when the "flashcard" is clicked.
+App presents a flashcard with a promt on one side, and an answer appears when the flashcard is clicked.
 
 ### App Walk-though
 
